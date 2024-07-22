@@ -2,7 +2,7 @@ from tkinter import *
 from PIL import ImageTk, Image
 import requests
 
-api_key = 'e130862a2f84530a177d83b4921b2bc9'
+api_key = 'Your Key'
 iconUrl = 'https://openweathermap.org/img/wn/{}@2x.png'
 
 
